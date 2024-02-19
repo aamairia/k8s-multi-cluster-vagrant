@@ -10,7 +10,7 @@ or
 
 fix the range of BASE_IP if needed 
 
-Define :
+Define variables :
 
 `NUMBER_MATSER=[NBX]`
 
